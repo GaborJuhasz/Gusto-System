@@ -1,2 +1,2 @@
 # Gusto-System
-My final project of my bachelor degree
+The final project of my bachelor degree
